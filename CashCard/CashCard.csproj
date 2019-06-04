@@ -50,7 +50,7 @@
   <ItemGroup>
     <Compile Include="Card.cs" />
     <Compile Include="CardTests.cs" />
-    <Compile Include="TaskStatus.cs" />
+    <Compile Include="TaskResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
